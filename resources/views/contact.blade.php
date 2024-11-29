@@ -4,3 +4,4 @@
     </x-slot:heading>
     <h1>Now you are contact page!</h1>
 </x-layout>
+
